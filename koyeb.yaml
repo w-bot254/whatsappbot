@@ -1,6 +1,6 @@
-name: Hunter-xmd
+name: WHATSAPP BOT
 services:
-  - name: Hunter-xmd-service
+  - name: whatsappbot-service
     type: web
     ports:
       - 5000
