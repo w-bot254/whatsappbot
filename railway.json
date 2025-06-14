@@ -1,7 +1,7 @@
 {
   "name": "whatsappbot",
   "description": "For deploying elijah.",
-  "repository": "",
+  "repository": "https://github.com/w-bot254/whatsappbot",
   "build": {
     "commands": {
       "install": "yarn install",
