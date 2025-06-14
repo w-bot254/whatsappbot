@@ -43,7 +43,7 @@ const {
   const path = require('path')
   const prefix = config.PREFIX
   
-  const ownerNumber = ['254794146821']
+  const ownerNumber = ['254720254797']
   
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
   if (!fs.existsSync(tempDir)) {
@@ -67,7 +67,7 @@ const {
   //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
-const sessdata = config.SESSION_ID.replace("HUNTER-XMD~", '');
+const sessdata = config.SESSION_ID.replace("BOT~", '');
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
@@ -112,23 +112,23 @@ const port = process.env.PORT || 9090;
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `*✨ Hello, 𝙃𝙐𝙉𝙏𝙀𝙍 𝙓𝙈𝘿 Legend! ✨*
+  let up = `* Hello, WHATSAPPBOT Legend! *
 
-╭─〔 *🤖 𝙃𝙐𝙉𝙏𝙀𝙍 𝙓𝙈𝘿 BOT* 〕  
-├─▸ *Simplicity. Speed. Power. BY ᴏʙᴇᴅᴛᴇᴄʜ  |*  
+╭─〔 *BOT* 〕  
+├─▸ *Simplicity. Speed. Power. BY ELIJAH  |*  
 ╰─➤ *Your New WhatsApp Sidekick is Here!*
 
-*❤️ Thank you for Choosing 𝙃𝙐𝙉𝙏𝙀𝙍 𝙓𝙈𝘿!*
+* Thank you for Choosing BOT!*
 
-╭──〔 🔗 *Quick Links* 〕  
-├─ 📢 *Join Our Channel:*  
-│   Click [**Here**](https://whatsapp.com/channel/0029VbAKbSjBA1ep4NkKGd1Y) to join!  
-├─ ⭐ *Give Us a Star:*  
-│   Star Us [**Here**](https://github.com/Obedweb/Hunter-Xmd1)!  
-╰─🛠️ *Prefix:* \`${prefix}\`
+╭──〔  *Quick Links* 〕  
+├─  *Join Our Channel:*  
+│   Click [**Here**]() to join!  
+├─  *Give Us a Star:*  
+│   Star Us [**Here**](https://github.com/w-bot254/whatsappbot)!  
+╰─ *Prefix:* \`${prefix}\`
 
-> _© MADE BY ᴏʙᴇᴅᴛᴇᴄʜ_`;
-    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/ihzz50.jpg` }, caption: up })
+> _© MADE BY ELIJAH_`;
+    conn.sendMessage(conn.user.id, { image: { url: `` }, caption: up })
   }
   })
   conn.ev.on('creds.update', saveCreds)
@@ -783,7 +783,7 @@ if (!isReact && senderNumber === botNumber) {
   }
   
   app.get("/", (req, res) => {
-  res.send("𝙃𝙐𝙉𝙏𝙀𝙍 𝙓𝙈𝘿 IS  STARTED ✅");
+  res.send("BOT IS  STARTED ✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
