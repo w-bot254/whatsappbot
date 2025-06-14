@@ -5,17 +5,17 @@
 
 
 <p align="center">
-  <a href="https://github.com/Obedweb/Hunter-Xmd1?tab=followers">
-    <img src="https://img.shields.io/github/followers/Obedweb?label=Followers&style=flat&color=007bff" alt="Followers" style="transform: scale(1.4); margin: 5px;"/>
+  <a href="https://github.com/w-bot254/whatsappbot?tab=followers">
+    <img src="https://img.shields.io/github/followers/elijah?label=Followers&style=flat&color=007bff" alt="Followers" style="transform: scale(1.4); margin: 5px;"/>
   </a>
-  <a href="https://github.com/Obedweb/Hunter-Xmd1/stargazers">
-    <img src="https://img.shields.io/github/stars/Obedweb/Hunter-Xmd1?style=flat&color=007bff" alt="Stars" style="transform: scale(1.4); margin: 5px;"/>
+  <a href="https://github.com/w-bot254/whatsappbot/stargazers">
+    <img src="https://img.shields.io/github/stars/w-bot254/whatsappbot?style=flat&color=007bff" alt="Stars" style="transform: scale(1.4); margin: 5px;"/>
   </a>
-  <a href="https://github.com/Obedweb/Hunter-Xmd1/fork">
-    <img src="https://img.shields.io/github/forks/Obedweb/Hunter-Xmd1?style=flat&color=007bff" alt="Forks" style="transform: scale(1.4); margin: 5px;"/>
+  <a href="https://github.com/w-bot254/whatsappbot/fork">
+    <img src="https://img.shields.io/github/forks/w-bot254/whatsappbot?style=flat&color=007bff" alt="Forks" style="transform: scale(1.4); margin: 5px;"/>
   </a>
-  <a href="https://github.com/Obedweb/Hunter-Xmd1/watchers">
-    <img src="https://img.shields.io/github/watchers/Obedweb/Hunter-Xmd1?label=Watching&style=flat&color=007bff" alt="Watching" style="transform: scale(1.4); margin: 5px;"/>
+  <a href="https://github.com/w-bot254/whatsappbot/watchers">
+    <img src="https://img.shields.io/github/watchers/w-bot254/whatsappbot?label=Watching&style=flat&color=007bff" alt="Watching" style="transform: scale(1.4); margin: 5px;"/>
   </a>
     
   </p>
@@ -44,7 +44,7 @@
 **DEPLOYING WEB**
 <a href='https://hunter-xmd-deploying-web.vercel.app' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%20-%F0%9F%93%8B%20%20DEPLOYING%20BOT%20WEB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-blue' width="400" height="50" alt="Deploy bot"/></a>
 
-**CONNECT WITH OBEDTECH**
+**CONNECT WITH ELIJAH**
 
 <a href='https://reach-out-obedtech.vercel.app/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%20-%F0%9F%93%8B%20%20REACH%20OUT%20OBEDTECH%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-blue' width="400" height="50" alt="Deploy bot"/></a>
                    
