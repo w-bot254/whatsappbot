@@ -1,7 +1,7 @@
 {
-  "name": "HUNTER-XMD",
-  "description": "For deploying HUNTER-XMD.",
-  "repository": "https://github.com/ObedTech003/Hunter-xmd1",
+  "name": "whatsappbot",
+  "description": "For deploying elijah.",
+  "repository": "",
   "build": {
     "commands": {
       "install": "yarn install",
