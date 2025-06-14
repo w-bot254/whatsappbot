@@ -1,8 +1,8 @@
 {
-  "name": "ᎻႮΝͲᎬᎡ ХᎷᎠ ",
-  "description": "Javascript WhatsApp bot made by 🄾🄱🄴🄳 🅃🄴🄲🄷",
-  "logo": "https://files.catbox.moe/ihzz50.jpg",
-  "keywords": ["ᎻႮΝͲᎬᎡ ХᎷᎠ"],
+  "name": "WHATSAPP ",
+  "description": "Javascript WhatsApp bot made by elijah",
+  "logo": "",
+  "keywords": ["whatsappbot"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "ᎻႮΝͲᎬᎡ ХᎷᎠ"
+      "value": "whatsapp"
     }, 
       
     "PREFIX": {
@@ -79,27 +79,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY ᎻႮΝͲᎬᎡ ХᎷᎠ✅*"
+      "value": "*SEEN YOUR STATUS BY BOT*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "🄾🄱🄴🄳 🅃🄴🄲🄷"
+      "value": "elijah"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254791637868"
+      "value": "254720254797"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "ᎻႮΝͲᎬᎡ ХᎷᎠ"
+      "value": "whatsapp"
 
       }, 
 
@@ -132,13 +132,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/ihzz50.jpg"
+      "value": ""
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 🅾🅱🅴🅳🆃🅴🅲🅷*"
+      "value": "*powered by elijah*"
     },
 
       "DELETE_LINKS": {
