@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=ELIJAH%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
 
 
-```html
 <!-- Header Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=WELCOME%20TO%20GLEN%20WEB&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" alt="Welcome Banner" />
@@ -31,7 +30,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/MPESA.svg" alt="MPESA" width="50" /><br>
   <strong>0720254797</strong>
 </p>
-```
+
 
 
 
