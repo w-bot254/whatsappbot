@@ -57,29 +57,6 @@
   <img src="https://files.catbox.moe/g67skc.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
-**FIRST PAIR WEB**
 
-<a href='https://hunter-xmd-web.vercel.app' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%20-%F0%9F%93%8B%20%20PAIR%20CODE%20WEB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-blue' width="400" height="50" alt="Deploy bot"/></a>
-
- **SECOND PAIR WEB**
-
-<a href='https://hunter-adv-pair.onrender.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%20-%F0%9F%93%8B%20%20PAIR%20CODE%20WEB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-blue' width="400" height="50" alt="Deploy bot"/></a>
-                                                                        
-     
-### <h4 align="">. ᎷᎽ ՏϴΝᏀՏ-ᎠϴᏔΝᏞϴᎠᎬᎡ</h4>
-<p style="text-align: center; font-size: 1.2em;">
-  
-</a>
-<a href='https://songs-downloader2.vercel.app' target="_blank">
-  <img alt='ᎠϴᏔΝᏞϴᎪᎠ' src='https://img.shields.io/badge/click%20SONGS%20 DOWNLOADER-darkpink?style=for-the-badge&logo=website&logoColor=black'/>
-</a>
-
-**DEPLOYING WEB**
-<a href='https://hunter-xmd-deploying-web.vercel.app' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%20-%F0%9F%93%8B%20%20DEPLOYING%20BOT%20WEB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-blue' width="400" height="50" alt="Deploy bot"/></a>
-
-**CONNECT WITH ELIJAH**
-
-<a href='https://reach-out-obedtech.vercel.app/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%20-%F0%9F%93%8B%20%20REACH%20OUT%20OBEDTECH%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-blue' width="400" height="50" alt="Deploy bot"/></a>
-                   
 
                     
