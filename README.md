@@ -41,22 +41,4 @@
   <a href="https://github.com/w-bot254/whatsappbot?tab=followers">
     <img src="https://img.shields.io/github/followers/elijah?label=Followers&style=flat&color=007bff" alt="Followers" style="transform: scale(1.4); margin: 5px;"/>
   </a>
-  <a href="https://github.com/w-bot254/whatsappbot/stargazers">
-    <img src="https://img.shields.io/github/stars/w-bot254/whatsappbot?style=flat&color=007bff" alt="Stars" style="transform: scale(1.4); margin: 5px;"/>
-  </a>
-  <a href="https://github.com/w-bot254/whatsappbot/fork">
-    <img src="https://img.shields.io/github/forks/w-bot254/whatsappbot?style=flat&color=007bff" alt="Forks" style="transform: scale(1.4); margin: 5px;"/>
-  </a>
-  <a href="https://github.com/w-bot254/whatsappbot/watchers">
-    <img src="https://img.shields.io/github/watchers/w-bot254/whatsappbot?label=Watching&style=flat&color=007bff" alt="Watching" style="transform: scale(1.4); margin: 5px;"/>
-  </a>
-    
-  </p>
-
-<div align="center">
-  <img src="https://files.catbox.moe/g67skc.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
-</div>
-
-
-
-                    
+  <
